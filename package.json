@@ -1,0 +1,17 @@
+{
+  "name": "kata-employee-report",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.5",
+    "@babel/preset-typescript": "^7.16.5",
+    "@types/jest": "^27.0.3",
+    "@types/lodash": "^4.14.178",
+    "jest": "^27.4.5",
+    "jest-extended": "^1.2.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
